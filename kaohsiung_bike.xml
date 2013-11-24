@@ -1,0 +1,14 @@
+<presets author="kagami" version="20131124">
+        <group name="Kaohsiung City Bike">
+                <item name="Bike Rental Point" type="node">
+                        <label text="Bike Rental Point in Kaohisung" />
+                        <link href="http://www.c-bike.com.tw/" />
+                        <key key="amenity" value="bicycle_rental" />
+                        <key key="network" value="高雄市公共腳踏車" />
+                        <key key="operator" value="KRTC" />
+                        <text key="name" text="Native Name" default="" delete_if_empty="true"/>
+						<text key="name:en" text="English Name" default="" delete_if_empty="true"/>
+                        <text key="ref" text="Reference Number" default="" delete_if_empty="true" />
+                </item>
+        </group>
+</presets>
